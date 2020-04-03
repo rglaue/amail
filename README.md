@@ -27,6 +27,11 @@ version 1.1
       linux% yum install perl-Net-SSH
       linux% yum install perl-Net-SCP
 
+### Regarding dependencies
+
+If you do not need the copy feature, and/or do not want to install the
+Net::SSH and Net::SCP dependencies, consider using version 1.0 of amail.
+
 
 ## Execution
 
